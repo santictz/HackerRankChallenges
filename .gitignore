@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/TestHakerRank/.vs/TestHackerRank/v16
+/TestHakerRank/bin/Debug/netcoreapp3.1
+/TestHakerRank/obj/Debug/netcoreapp3.1
+/TestHakerRank/obj
